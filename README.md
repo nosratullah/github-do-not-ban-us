@@ -537,4 +537,4 @@ You can:
 - Rogério dos Santos Fernandes 🇧🇷 ([spartanroger](https://github.com/spartanroger))
 - Tim Visée from the Netherlands 🇳🇱 ([timvisee](https://github.com/timvisee))
 - Ako Salman from Iran 🇮🇷 ([Ako](https://github.com/akoSalman))
-- Nosratullah Mohammadi from afghanistan  (https://github.com/nosratullah)) 
+- Nosratullah Mohammadi from afghanistan  (https://github.com/nosratullah)) 
